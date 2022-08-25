@@ -1,0 +1,155 @@
+#nav{
+    position: fixed;
+    background-color: #2C3E50;
+    height: 104px;
+    width: 100%;
+}
+#seccion1{
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-left: 600px;
+    margin-top:110px;
+    text-align:center;
+}
+
+#start{
+    font-size: 60px;
+    text-align: center;
+    color: #ffff;
+}
+
+#casa{
+    display:flex;
+    justify-content: center;
+}
+
+#Artist{
+    color: #ffff;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+#linea{ 
+
+    width: 170px;
+    height: 5px;
+    background-color: #ffff;
+}
+#linea2{ 
+  
+    width: 170px;
+    height: 5px;
+    background-color: #ffff;
+}
+
+#parrafos1-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#parrafo1{
+    width: 300px;
+    height: 300px;
+    font-size: 25px;
+    margin: 2rem auto;
+    margin-left: 20px;
+
+}
+
+#parrafo2{
+    width: 300px;
+    height: 250px;
+    font-size: 25px;
+    margin: 2rem auto;
+    margin-left: 20px;
+    
+}
+
+#principal{
+    margin: 0 auto;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#estrella{
+    margin: 0 auto;
+    width: 55px;
+    height: 55px;
+}
+#portafolio{
+    margin-top: 70PX;
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    padding-top: 55px;
+    font-size: 50px;
+}
+#lineaP{ 
+    width: 170px;
+    height: 5px;
+    background-color:  #000000;
+}
+#linea2P{ 
+    width: 170px;
+    height: 5px;
+    background-color:  #000000ff;
+}
+#acerca{
+    padding-top: 50px;
+    font-size: 45px;
+    text-align: center;
+    color: #ffff;
+}
+table{
+    float: right;
+    margin-right: 80PX;
+    margin-top: -20PX;
+}
+
+#Locacion{
+    color: #ffff;
+    margin-top: 70PX;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 35px;
+}
+
+#primera{
+    color: #ffff;
+    text-align: center;
+    font-size: 30px;
+}
+#primera2{
+    color: #ffff; 
+    text-align: center; 
+    font-size: 0px;
+}
+
+#web{
+    color: #ffff;
+    margin-top: 20PX;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+#redes{
+    width:100px;
+    height: 100px;
+    margin-left: 750px;
+    margin-top:25px;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
